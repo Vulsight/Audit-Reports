@@ -3,8 +3,8 @@ Public archive of our web3 security work.
 
 ## Team Member Achievements
 - Our founding team is composed of Top Web3 Security Researchers.
-- 100+ protocols audited across lending, DEXs, staking, NFT markets, and oracle integrations in private audit, audit competitions and bug bounties. 
-- Multi-chain expertise: Solidity (EVM), Aptos Move, Sui Move; formal methods and fuzzing where applicable  
+- 100+ protocols audited across lending, DEXs, staking, NFT markets, and oracle integrations in private audits, audit competitions and bug bounties. 
+- Multi-chain expertise: Solidity (EVM), Aptos Move, Sui Move, Solana Rust; formal methods and fuzzing where applicable  
 - Top leaderboard finishes in competitive audits/bug bounties (Cantina, Sherlock, Immunefi)  
 - High-severity impact: prevented liquidations, price manipulation, and systemic bad debt  
 - End-to-end delivery: manual review, invariants, fuzzing, oracle/liquidity stress tests, PoCs, and remediation verification  
